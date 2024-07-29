@@ -1,3 +1,5 @@
+## Minefield
+Minefield is a terminal game that mimics Minesweeper. A user interacts with a grid of safe or non-safe squares. The squares are revealed one at a time. If safe, the distance to a mine (non-safe) square is shown. The user must logically clear all squares to win the game.
 
 ## Run Locally
 
